@@ -1,0 +1,5 @@
+name = "sqlite-money-migration"
+difficulty = "hard"
+tags = ["sql", "sqlite", "parsing", "migrations"]
+agent_timeout = 900
+verifier_timeout = 120

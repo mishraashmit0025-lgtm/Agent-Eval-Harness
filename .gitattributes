@@ -1,0 +1,4 @@
+*.sh text eol=lf
+*.log -text
+*.csv -text
+*.db binary

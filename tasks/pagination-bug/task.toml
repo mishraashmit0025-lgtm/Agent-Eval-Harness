@@ -1,0 +1,5 @@
+name = "pagination-bug"
+difficulty = "easy"
+tags = ["python", "bugfix"]
+agent_timeout = 600
+verifier_timeout = 60

@@ -1,0 +1,5 @@
+name = "ttl-lru-cache"
+difficulty = "hard"
+tags = ["python", "data-structures", "concurrency"]
+agent_timeout = 900
+verifier_timeout = 120
